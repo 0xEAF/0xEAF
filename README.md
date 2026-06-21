@@ -1,7 +1,7 @@
 # Hi, I’m xeaf 👋
 ### Also known as 0xEAF
 
-I am a 15 years old student from France 🇫🇷.
+I am a 16 years old student from France 🇫🇷.
 I started programming back when I was 9.
 I also do YouTube videos about programming,
 gaming and more.
